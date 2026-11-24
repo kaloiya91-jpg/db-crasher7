@@ -6,5 +6,13 @@
     "password": "everx",
     "role": "creator",
     "expiredDate": "9999-12-31"
+  },
+  {
+    "telegramId": "6818899799",
+    "telegramUsername": "@lovyouforever",
+    "username": "loveyouforever",
+    "password": "jelek",
+    "role": "member",
+    "expiredDate": "9999-12-31"
   }
 ]

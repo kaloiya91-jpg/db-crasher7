@@ -14,5 +14,13 @@
     "password": "ali08",
     "role": "creator",
     "expiredDate": "9999-12-31"
+  },
+  {
+    "telegramId": "8382601642",
+    "telegramUsername": "@KRT67xkenzi",
+    "username": "kenzinew",
+    "password": "kenzi23",
+    "role": "member",
+    "expiredDate": "9999-12-31"
   }
 ]

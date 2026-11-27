@@ -22,5 +22,13 @@
     "password": "ali08",
     "role": "creator",
     "expiredDate": "9999-12-31"
+  },
+  {
+    "telegramId": "6539169390",
+    "telegramUsername": "@pojannnnnnnnnnnnnnnnnnnnnnnn",
+    "username": "pojan",
+    "password": "pojan13",
+    "role": "member",
+    "expiredDate": "9999-12-31"
   }
 ]
